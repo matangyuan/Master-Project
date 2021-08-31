@@ -67,7 +67,7 @@ def main():
         # Tell pytorch to run this model on the GPU.
         model.cuda()
     elif args.model == 'RoBERTa':
-        train_dataloader, prediction_dataloader, tokenizer = tokenize_XLNet_sentence(sentences, labels, test_sentences,
+        train_dataloader, prediction_dataloader, tokenizer = tokenize_RoBERTa_sentence(sentences, labels, test_sentences,
                                                                                      test_labels, args)
         # Load RobertaForSequenceClassification, the pretrained RoBERTA model with a single
         # linear classification layer on top.
@@ -81,7 +81,7 @@ def main():
         # Tell pytorch to run this model on the GPU.
         model.cuda()
     elif args.model == 'RoBERTa-BiLSTM-CRF':
-        train_dataloader, prediction_dataloader, tokenizer = tokenize_XLNet_sentence(sentences, labels, test_sentences,
+        train_dataloader, prediction_dataloader, tokenizer = tokenize_RoBERTa_sentence(sentences, labels, test_sentences,
                                                                                      test_labels, args)
         model = RoBertaSSC.from_pretrained(
             "roberta-base",  # Use the 12-layer BERT model, with an uncased vocab.
