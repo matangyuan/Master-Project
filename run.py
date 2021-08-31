@@ -54,7 +54,7 @@ def main():
             output_hidden_states=False,  # Whether the model returns all hidden-states.
         )
         model.cuda()
-    if args.model == 'BERT':
+    elif args.model == 'BERT':
         train_dataloader, prediction_dataloader, tokenizer = tokenize_BERT_sentence(sentences, labels, test_sentences,
                                                                                     test_labels, args)
 
@@ -66,7 +66,7 @@ def main():
         )
         # Tell pytorch to run this model on the GPU.
         model.cuda()
-    if args.model == 'RoBERTa':
+    elif args.model == 'RoBERTa':
         train_dataloader, prediction_dataloader, tokenizer = tokenize_XLNet_sentence(sentences, labels, test_sentences,
                                                                                      test_labels, args)
         # Load RobertaForSequenceClassification, the pretrained RoBERTA model with a single
@@ -80,7 +80,7 @@ def main():
 
         # Tell pytorch to run this model on the GPU.
         model.cuda()
-    if args.model == 'RoBERTa-BiLSTM-CRF':
+    elif args.model == 'RoBERTa-BiLSTM-CRF':
         train_dataloader, prediction_dataloader, tokenizer = tokenize_XLNet_sentence(sentences, labels, test_sentences,
                                                                                      test_labels, args)
         model = RoBertaSSC.from_pretrained(
@@ -89,7 +89,7 @@ def main():
             output_hidden_states=False,  # Whether the model returns all hidden-states.
         )
         model.cuda()
-    if args.model == 'XLNet':
+    elif args.model == 'XLNet':
         train_dataloader, prediction_dataloader, tokenizer = tokenize_XLNet_sentence(sentences, labels, test_sentences,
                                                                                      test_labels, args)
         # Load RobertaForSequenceClassification, the pretrained RoBERTA model with a single
