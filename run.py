@@ -15,7 +15,7 @@ def main():
                         help='Choose the model from: BERT, BERT-BiLSTM-CRF, RoBERTa, RoBERTa-BiLSTM-CRF')
     parser.add_argument('--training_data_path', default='Training dataset/', type=str, help='Specify the training data folder')
     parser.add_argument('--testing_data_path', default='Testing dataset/', type=str, help='Specify the testing data folder')
-    parser.add_argument('--save_path', default='modesl/', type=str,
+    parser.add_argument('--save_path', default='models/', type=str,
                         help='Specify the folder to store the models and predictions')
 
     parser.add_argument('--max_length', default=256, type=int, help='The maximal length for the input sentence.')
