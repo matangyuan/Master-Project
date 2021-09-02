@@ -1,6 +1,6 @@
 # Master-Project
 
-Source code for Identification of Rhetorical Roles of Sentences in Legal Judgements Using Transformer-based Approaches.
+Source code for 'Identification of Rhetorical Roles of Sentences in Legal Judgements Using Transformer-based Approaches.'
 
 ## Dependecies
 transformers=2.11.0
