@@ -40,15 +40,13 @@ def calc_classification_metrics(y_true, y_predicted, labels):
 
 def eval(args):
     # read data from golden samples
-
     DATA_DIC = r"/content/drive/My Drive/AILA Datasets/"
-
     os.makedirs(DATA_DIC, exist_ok=True)
     gold_data = pd.read_csv('task2-labels.csv', sep=',')
 
     # read results
     predict_data = pd.read_csv(
-         args.save_path + 'run_bert_bilstm_crf_epoch1_lr175_TESTONLY.txt', sep='\t', header=None)
+         args.save_path + args.model_name + '.txt', sep='\t', header=None)
     predict_data = predict_data[[0, 1]]
     predict_data.columns = ['sent_id', 'label']
 
@@ -71,7 +69,7 @@ def eval(args):
     print(result)
 
     file1 = open(
-        args.save_path+"run_bert_bilstm_crf_epoch1_lr175_TESTONLY_FINALRESULT.txt", "a")
+        args.save_path+args.model_name+"_FINALRESULT.txt", "a")
     file1.write('acc:')
     file1.write('\t')
     file1.write(str(result[0]['acc']))
