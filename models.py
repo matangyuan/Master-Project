@@ -9,33 +9,30 @@ from torchcrf import CRF
 
 
 def mask_sentence(sentences, labels, test_sentences, test_labels, tokenizer, args):
-    # Tokenize all of the sentences and map the tokens to thier word IDs.
+    # In this function, we use tokenizers to tokenize the sentence and its labels
     input_ids = []
     attention_masks = []
 
-    # For every sentence...
+    # Loop every sentence
     for sent in sentences:
-        # `encode_plus` will:
-        #   (1) Tokenize the sentence.
-        #   (2) Prepend the `[CLS]` token to the start.
-        #   (3) Append the `[SEP]` token to the end.
-        #   (4) Map tokens to their IDs.
-        #   (5) Pad or truncate the sentence to `max_length`
-        #   (6) Create attention masks for [PAD] tokens.
+        # the encoder will tokenize the sentence with pre-trained models
+        # [CLS] and [SEP] tokens are added to the sentence
+        # the tokens are mapped to its IDs
+        # the sentence is padded to the specified length
         encoded_dict = tokenizer.encode_plus(
-            sent,  # Sentence to encode.
-            add_special_tokens=True,  # Add '[CLS]' and '[SEP]'
-            max_length=args.max_length,  # Pad & truncate all sentences.
+            sent,
+            add_special_tokens=True,  # [CLS] and [SEP] tokens are added to the sentence
+            max_length=args.max_length,  # the sentence is padded to the specified length
             pad_to_max_length=True,
             truncation=True,
-            return_attention_mask=True,  # Construct attn. masks.
-            return_tensors='pt',  # Return pytorch tensors.
+            return_attention_mask=True,  # attention mask created
+            return_tensors='pt',  # we use pytorch input for later use
         )
 
-        # Add the encoded sentence to the list.
+        # the encoded sentences are appended to the input_ids
         input_ids.append(encoded_dict['input_ids'])
 
-        # And its attention mask (simply differentiates padding from non-padding).
+        # attention mask are appended to its list
         attention_masks.append(encoded_dict['attention_mask'])
 
     # Convert the lists into tensors.
@@ -43,36 +40,33 @@ def mask_sentence(sentences, labels, test_sentences, test_labels, tokenizer, arg
     attention_masks = torch.cat(attention_masks, dim=0)
     labels = torch.tensor(labels)
 
-    # Print sentence 0, now as a list of IDs.
+    # demonstrate we are doing correctly
     print('Original: ', sentences[0])
     print('Token IDs:', input_ids[0])
 
-    # Tokenize all of the sentences and map the tokens to their word IDs.
+    # For testing data...
     test_input_ids = []
     test_attention_masks = []
 
-    # For every sentence...
+    # Loop every test sentence
     for sent in test_sentences:
-        # `encode_plus` will:
-        #   (1) Tokenize the sentence.
-        #   (2) Prepend the `[CLS]` token to the start.
-        #   (3) Append the `[SEP]` token to the end.
-        #   (4) Map tokens to their IDs.
-        #   (5) Pad or truncate the sentence to `max_length`
-        #   (6) Create attention masks for [PAD] tokens.
+        # the encoder will tokenize the sentence with pre-trained models
+        # [CLS] and [SEP] tokens are added to the sentence
+        # the tokens are mapped to its IDs
+        # the sentence is padded to the specified length
         encoded_dict = tokenizer.encode_plus(
             sent,  # Sentence to encode.
-            add_special_tokens=True,  # Add '[CLS]' and '[SEP]'
-            max_length=args.max_length,  # Pad & truncate all sentences.
+            add_special_tokens=True,  # [CLS] and [SEP] tokens are added to the sentence
+            max_length=args.max_length,  # the sentence is padded to the specified length
             pad_to_max_length=True,
             truncation=True,
-            return_attention_mask=True,  # Construct attn. masks.
-            return_tensors='pt',  # Return pytorch tensors.
+            return_attention_mask=True,  # attention mask created
+            return_tensors='pt',  # we use pytorch input for later use
         )
 
-        # Add the encoded sentence to the list.
+        # the encoded sentences are appended to the input_ids
         test_input_ids.append(encoded_dict['input_ids'])
-        # And its attention mask (simply differentiates padding from non-padding).
+        # attention mask are appended to its list
         test_attention_masks.append(encoded_dict['attention_mask'])
 
     # Convert the lists into tensors.
@@ -80,45 +74,42 @@ def mask_sentence(sentences, labels, test_sentences, test_labels, tokenizer, arg
     test_attention_masks = torch.cat(test_attention_masks, dim=0)
     test_labels = torch.tensor(test_labels)
 
-    # Set the batch size.
+    # Set the batch size for testing data which is 1
     test_batch_size = 1
 
-    # Create the DataLoader.
+    # Create the dataLoader for the testing dataset
     prediction_data = TensorDataset(test_input_ids, test_attention_masks, test_labels)
     prediction_sampler = SequentialSampler(prediction_data)
     prediction_dataloader = DataLoader(prediction_data, sampler=prediction_sampler, batch_size=test_batch_size)
 
-    # Combine the training inputs into a TensorDataset.
+    # Creating a TensorDataset which contains input_id, attention mask and labels
     dataset = TensorDataset(input_ids, attention_masks, labels)
 
-    # Calculate the number of samples to include in each set.
+    # Separate the data into training and validation dataset, validation can be used to determine the correct parameters
     train_size = int(1 * len(dataset))
     val_size = len(dataset) - train_size
 
-    # Divide the dataset by randomly selecting samples.
+    # shuffle the data
     train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
 
     print('{:>5,} training samples'.format(train_size))
     print('{:>5,} validation samples'.format(val_size))
 
-    # The DataLoader needs to know our batch size for training, so we specify it
-    # here. For fine-tuning RoBERTA on a specific task, the authors recommend a batch
-    # size of 16 or 32.
+    # Specify the batch_size parameter for training data. 16 is used here
     batch_size = args.batch_size
 
-    # Create the DataLoaders for our training and validation sets.
-    # We'll take training samples in random order.
+    # Separate the data into training and validation dataset
     train_dataloader = DataLoader(
-        train_dataset,  # The training samples.
+        train_dataset,
         sampler=RandomSampler(train_dataset),  # Select batches randomly
-        batch_size=batch_size  # Trains with this batch size.
+        batch_size=batch_size  # use 16 for the batch size
     )
 
-    # For validation the order doesn't matter, so we'll just read them sequentially.
+    # validation can be used to determine the correct parameters
     validation_dataloader = DataLoader(
-        val_dataset,  # The validation samples.
-        sampler=SequentialSampler(val_dataset),  # Pull out batches sequentially.
-        batch_size=batch_size  # Evaluate with this batch size.
+        val_dataset,
+        sampler=SequentialSampler(val_dataset),  # no need to shuffle the validation set anyways
+        batch_size=batch_size  # still use 16 for the batch size
     )
 
     return train_dataloader, prediction_dataloader
@@ -127,23 +118,22 @@ def mask_sentence(sentences, labels, test_sentences, test_labels, tokenizer, arg
 def tokenize_BERT_sentence(sentences, labels, test_sentences, test_labels, args):
     configuration = BertConfig()
     # Load the bert-base-cased tokenizer.
+    # We still have cased data in our documents so we use cased version of BERT
     print('Loading bert-base-cased tokenizer:')
     tokenizer = BertTokenizer.from_pretrained('bert-base-cased', do_lower_case=True)
 
-    # Print the original sentence.
+    # This is a demo of the tokenization process
     print(' Original Sentence: ', sentences[0])
-    # Print the sentence split into tokens.
     print('Tokenized Sentence: ', tokenizer.tokenize(sentences[0]))
-    # Print the sentence mapped to token ids.
     print('Token IDs of the Sentence: ', tokenizer.convert_tokens_to_ids(tokenizer.tokenize(sentences[0])))
 
     max_len = 0
-    # For every sentence...
+    # We use this block to identify the longest sentence.
     for sent in sentences:
-        # Tokenize the text and add `[CLS]` and `[SEP]` tokens.
+        # Tokenize the sentence and add special tokens.
         input_ids = tokenizer.encode(sent, add_special_tokens=True)
 
-        # Update the maximum sentence length.
+        # Find the maximum sentence length.
         max_len = max(max_len, len(input_ids))
     print('Maximal sentence length: ', max_len)
 
@@ -158,20 +148,18 @@ def tokenize_RoBERTa_sentence(sentences, labels, test_sentences, test_labels, ar
     print('Loading RoBERTa tokenizer...')
     tokenizer = RobertaTokenizer.from_pretrained('roberta-base', do_lower_case=True)
 
-    # Print the original sentence.
+    # This is a demo of the tokenization process
     print(' Original Sentence: ', sentences[0])
-    # Print the sentence split into tokens.
     print('Tokenized Sentence: ', tokenizer.tokenize(sentences[0]))
-    # Print the sentence mapped to token ids.
     print('Token IDs of the Sentence: ', tokenizer.convert_tokens_to_ids(tokenizer.tokenize(sentences[0])))
 
     max_len = 0
-    # For every sentence...
+    # We use this block to identify the longest sentence.
     for sent in sentences:
-        # Tokenize the text and add `[CLS]` and `[SEP]` tokens.
+        # Tokenize the sentence and add special tokens.
         input_ids = tokenizer.encode(sent, add_special_tokens=True)
 
-        # Update the maximum sentence length.
+        # Find the maximum sentence length.
         max_len = max(max_len, len(input_ids))
     print('Maximal sentence length: ', max_len)
 
@@ -185,20 +173,18 @@ def tokenize_XLNet_sentence(sentences, labels, test_sentences, test_labels, args
     print('Loading XLNetTokenizer tokenizer...')
     tokenizer = XLNetTokenizer.from_pretrained('xlnet-base-cased', do_lower_case=True)
 
-    # Print the original sentence.
+    # This is a demo of the tokenization process
     print(' Original Sentence: ', sentences[0])
-    # Print the sentence split into tokens.
     print('Tokenized Sentence: ', tokenizer.tokenize(sentences[0]))
-    # Print the sentence mapped to token ids.
     print('Token IDs of the Sentence: ', tokenizer.convert_tokens_to_ids(tokenizer.tokenize(sentences[0])))
 
     max_len = 0
-    # For every sentence...
+    # We use this block to identify the longest sentence.
     for sent in sentences:
-        # Tokenize the text and add `[CLS]` and `[SEP]` tokens.
+        # Tokenize the sentence and add special tokens.
         input_ids = tokenizer.encode(sent, add_special_tokens=True)
 
-        # Update the maximum sentence length.
+        # Find the maximum sentence length.
         max_len = max(max_len, len(input_ids))
     print('Maximal sentence length: ', max_len)
 
@@ -212,21 +198,21 @@ class BertSSC(BertModel):
                     lstm_dropout_prob = 0.1, num_tags = 7):
         super(BertSSC, self).__init__(config)
         self.bert = BertModel.from_pretrained(
-            "bert-base-uncased",  # Use the bert-base-uncased model
-            output_attentions=False,  # Determine whether the model returns attentions weights.
-            output_hidden_states=False,  # Determine whether the model returns all hidden-states.
+            "bert-base-uncased",  # We still use the bert-base-uncased model to capture the semantics
+            output_attentions=False,  # No need to returns attentions weights.
+            output_hidden_states=False,  # No need to returns all hidden-states.
         )
         # self.dropout = torch.nn.Dropout(0.1)
         self.bilstm = torch.nn.LSTM(
-            input_size=lstm_embedding_size,
-            hidden_size=dense_hidden_size // 2,
+            input_size=lstm_embedding_size,    # We use the BiLSTM layers to output the predictions
+            hidden_size=dense_hidden_size // 2,  # specify the hidden_size for each BiLSTM layer
             batch_first=True,
-            num_layers=2,
+            num_layers=2,   # specify the number of the BiLSTM layer
             dropout=lstm_dropout_prob,
-            bidirectional=True
+            bidirectional=True  # make sure it is a bidirectional-LSTM layer
         )
         self.classifier = torch.nn.Linear(lstm_embedding_size * 2, num_tags)
-        self.crf = CRF(num_tags, batch_first=True)
+        self.crf = CRF(num_tags, batch_first=True)  # CRF layer is added to improve performance
         self.init_weights()
 
     def forward(self, input_ids=None, attention_mask=None, token_type_ids=None,
@@ -257,18 +243,18 @@ class RoBertaSSC(RobertaModel):
                     lstm_dropout_prob = 0.1, num_tags = 7):
         super(RoBertaSSC, self).__init__(config)
         self.roberta = RobertaModel.from_pretrained(
-            "roberta-base",  # Use the 12-layer RoBERTA model, with an uncased vocab.
-            output_attentions=False,  # Whether the model returns attentions weights.
-            output_hidden_states=False,  # Whether the model returns all hidden-states.
+            "roberta-base",  # We still use the 12-layer RoBERTA model to capture the semantics
+            output_attentions=False,  # No need to returns attentions weights.
+            output_hidden_states=False,  # No need to returns all hidden-states.
         )
         # self.dropout = torch.nn.Dropout(0.1)
         self.bilstm = torch.nn.LSTM(
-            input_size=lstm_embedding_size,
-            hidden_size=dense_hidden_size // 2,
+            input_size=lstm_embedding_size,     # We use the BiLSTM layers to output the predictions
+            hidden_size=dense_hidden_size // 2,     # specify the hidden_size for each BiLSTM layer
             batch_first=True,
-            num_layers=2,
+            num_layers=2,   # specify the number of the BiLSTM layer
             dropout=lstm_dropout_prob,
-            bidirectional=True
+            bidirectional=True  # make sure it is a bidirectional-LSTM layer
         )
         self.classifier = torch.nn.Linear(lstm_embedding_size * 2, num_tags)
         self.crf = CRF(num_tags, batch_first=True)
