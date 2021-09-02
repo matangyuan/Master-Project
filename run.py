@@ -17,10 +17,11 @@ def main():
     parser.add_argument('--testing_data_path', default='Testing dataset/', type=str, help='Specify the testing data folder')
     parser.add_argument('--save_path', default='models/', type=str,
                         help='Specify the folder to store the models and predictions')
-
+    parser.add_argument('--model_name', default='roberta_bilstm_crf', type=str,
+                        help='Specify the name to store the models and predictions')
     parser.add_argument('--max_length', default=256, type=int, help='The maximal length for the input sentence.')
     parser.add_argument('--batch_size', default=16, type=int)
-    parser.add_argument('--learning_rate', default=1.75e-5, type=float)
+    parser.add_argument('--learning_rate', default=2e-5, type=float)
     parser.add_argument('--adam_epsilon', default=1e-8, type=float)
     parser.add_argument('--epochs', default=4, type=int)
     args = parser.parse_args()
