@@ -1,0 +1,1905 @@
+d1_s1,Facts
+d1_s2,Facts
+d1_s3,Facts
+d1_s4,Facts
+d1_s5,Facts
+d1_s6,Facts
+d1_s7,Facts
+d1_s8,Facts
+d1_s9,Facts
+d1_s10,Facts
+d1_s11,Facts
+d1_s12,Facts
+d1_s13,Argument
+d1_s14,Argument
+d1_s15,Argument
+d1_s16,Argument
+d1_s17,Argument
+d1_s18,Argument
+d1_s19,Argument
+d1_s20,Argument
+d1_s21,Argument
+d1_s22,Argument
+d1_s23,Argument
+d1_s24,Argument
+d1_s25,Argument
+d1_s26,Argument
+d1_s27,Argument
+d1_s28,Argument
+d1_s29,Argument
+d1_s30,Argument
+d1_s31,Argument
+d1_s32,Argument
+d1_s33,Argument
+d1_s34,Argument
+d1_s35,Ratio of the decision
+d1_s36,Ratio of the decision
+d1_s37,Ratio of the decision
+d1_s38,Statute
+d1_s39,Statute
+d1_s40,Statute
+d1_s41,Statute
+d1_s42,Statute
+d1_s43,Statute
+d1_s44,Statute
+d1_s45,Statute
+d1_s46,Statute
+d1_s47,Statute
+d1_s48,Statute
+d1_s49,Statute
+d1_s50,Statute
+d1_s51,Statute
+d1_s52,Statute
+d1_s53,Statute
+d1_s54,Statute
+d1_s55,Statute
+d1_s56,Statute
+d1_s57,Statute
+d1_s58,Precedent
+d1_s59,Precedent
+d1_s60,Precedent
+d1_s61,Precedent
+d1_s62,Precedent
+d1_s63,Precedent
+d1_s64,Precedent
+d1_s65,Precedent
+d1_s66,Precedent
+d1_s67,Precedent
+d1_s68,Precedent
+d1_s69,Precedent
+d1_s70,Ratio of the decision
+d1_s71,Ratio of the decision
+d1_s72,Ratio of the decision
+d1_s73,Ratio of the decision
+d1_s74,Ratio of the decision
+d1_s75,Ratio of the decision
+d1_s76,Ratio of the decision
+d1_s77,Ratio of the decision
+d1_s78,Ratio of the decision
+d1_s79,Ratio of the decision
+d1_s80,Ratio of the decision
+d1_s81,Ratio of the decision
+d1_s82,Ratio of the decision
+d1_s83,Ratio of the decision
+d1_s84,Ratio of the decision
+d1_s85,Ratio of the decision
+d1_s86,Ratio of the decision
+d1_s87,Ratio of the decision
+d1_s88,Ratio of the decision
+d1_s89,Ratio of the decision
+d1_s90,Ratio of the decision
+d1_s91,Ratio of the decision
+d1_s92,Ratio of the decision
+d1_s93,Ratio of the decision
+d1_s94,Ratio of the decision
+d1_s95,Ratio of the decision
+d1_s96,Ratio of the decision
+d1_s97,Ratio of the decision
+d1_s98,Ratio of the decision
+d1_s99,Ratio of the decision
+d1_s100,Argument
+d1_s101,Argument
+d1_s102,Precedent
+d1_s103,Precedent
+d1_s104,Precedent
+d1_s105,Precedent
+d1_s106,Argument
+d1_s107,Argument
+d1_s108,Ratio of the decision
+d1_s109,Ratio of the decision
+d1_s110,Ratio of the decision
+d1_s111,Ratio of the decision
+d1_s112,Ratio of the decision
+d1_s113,Ratio of the decision
+d1_s114,Ratio of the decision
+d1_s115,Ruling by Present Court
+d1_s116,Ruling by Present Court
+d10_s1,Facts
+d10_s2,Facts
+d10_s3,Facts
+d10_s4,Facts
+d10_s5,Facts
+d10_s6,Facts
+d10_s7,Facts
+d10_s8,Facts
+d10_s9,Facts
+d10_s10,Facts
+d10_s11,Facts
+d10_s12,Facts
+d10_s13,Facts
+d10_s14,Facts
+d10_s15,Facts
+d10_s16,Facts
+d10_s17,Facts
+d10_s18,Facts
+d10_s19,Facts
+d10_s20,Facts
+d10_s21,Facts
+d10_s22,Facts
+d10_s23,Facts
+d10_s24,Facts
+d10_s25,Facts
+d10_s26,Facts
+d10_s27,Facts
+d10_s28,Facts
+d10_s29,Facts
+d10_s30,Facts
+d10_s31,Facts
+d10_s32,Facts
+d10_s33,Facts
+d10_s34,Facts
+d10_s35,Facts
+d10_s36,Facts
+d10_s37,Facts
+d10_s38,Facts
+d10_s39,Facts
+d10_s40,Facts
+d10_s41,Facts
+d10_s42,Facts
+d10_s43,Facts
+d10_s44,Facts
+d10_s45,Facts
+d10_s46,Facts
+d10_s47,Facts
+d10_s48,Facts
+d10_s49,Facts
+d10_s50,Facts
+d10_s51,Facts
+d10_s52,Ratio of the decision
+d10_s53,Ratio of the decision
+d10_s54,Ratio of the decision
+d10_s55,Ratio of the decision
+d10_s56,Ratio of the decision
+d10_s57,Ratio of the decision
+d10_s58,Ratio of the decision
+d10_s59,Ratio of the decision
+d10_s60,Ratio of the decision
+d10_s61,Ratio of the decision
+d10_s62,Ratio of the decision
+d10_s63,Ratio of the decision
+d10_s64,Ratio of the decision
+d10_s65,Ratio of the decision
+d10_s66,Facts
+d10_s67,Ratio of the decision
+d10_s68,Ratio of the decision
+d10_s69,Ratio of the decision
+d10_s70,Ratio of the decision
+d10_s71,Ratio of the decision
+d10_s72,Ratio of the decision
+d10_s73,Ratio of the decision
+d10_s74,Ratio of the decision
+d10_s75,Ratio of the decision
+d10_s76,Ratio of the decision
+d10_s77,Ratio of the decision
+d10_s78,Ratio of the decision
+d10_s79,Ratio of the decision
+d10_s80,Ratio of the decision
+d10_s81,Statute
+d10_s82,Statute
+d2_s1,Facts
+d2_s2,Facts
+d2_s3,Facts
+d2_s4,Facts
+d2_s5,Ratio of the decision
+d2_s6,Ratio of the decision
+d2_s7,Ratio of the decision
+d2_s8,Ratio of the decision
+d2_s9,Ratio of the decision
+d2_s10,Ratio of the decision
+d2_s11,Facts
+d2_s12,Facts
+d2_s13,Ratio of the decision
+d2_s14,Ratio of the decision
+d2_s15,Ratio of the decision
+d2_s16,Ratio of the decision
+d2_s17,Ratio of the decision
+d2_s18,Ratio of the decision
+d2_s19,Ratio of the decision
+d2_s20,Argument
+d2_s21,Precedent
+d2_s22,Precedent
+d2_s23,Precedent
+d2_s24,Precedent
+d2_s25,Precedent
+d2_s26,Precedent
+d2_s27,Precedent
+d2_s28,Precedent
+d2_s29,Ratio of the decision
+d2_s30,Ratio of the decision
+d2_s31,Ratio of the decision
+d2_s32,Ratio of the decision
+d2_s33,Ratio of the decision
+d2_s34,Precedent
+d2_s35,Precedent
+d2_s36,Precedent
+d2_s37,Ratio of the decision
+d2_s38,Ratio of the decision
+d2_s39,Ratio of the decision
+d2_s40,Ratio of the decision
+d2_s41,Ratio of the decision
+d2_s42,Precedent
+d2_s43,Precedent
+d2_s44,Precedent
+d2_s45,Precedent
+d2_s46,Precedent
+d2_s47,Precedent
+d2_s48,Precedent
+d2_s49,Precedent
+d2_s50,Precedent
+d2_s51,Precedent
+d2_s52,Precedent
+d2_s53,Precedent
+d2_s54,Precedent
+d2_s55,Precedent
+d2_s56,Precedent
+d2_s57,Precedent
+d2_s58,Precedent
+d2_s59,Precedent
+d2_s60,Precedent
+d2_s61,Precedent
+d2_s62,Precedent
+d2_s63,Precedent
+d2_s64,Ratio of the decision
+d2_s65,Ratio of the decision
+d2_s66,Ratio of the decision
+d2_s67,Precedent
+d2_s68,Precedent
+d2_s69,Precedent
+d2_s70,Precedent
+d2_s71,Precedent
+d2_s72,Precedent
+d2_s73,Precedent
+d2_s74,Precedent
+d2_s75,Precedent
+d2_s76,Ratio of the decision
+d2_s77,Ratio of the decision
+d2_s78,Ratio of the decision
+d2_s79,Ratio of the decision
+d2_s80,Ratio of the decision
+d2_s81,Ratio of the decision
+d2_s82,Ratio of the decision
+d2_s83,Ratio of the decision
+d2_s84,Ratio of the decision
+d2_s85,Ratio of the decision
+d2_s86,Ratio of the decision
+d2_s87,Precedent
+d2_s88,Precedent
+d2_s89,Precedent
+d2_s90,Precedent
+d2_s91,Precedent
+d2_s92,Precedent
+d2_s93,Precedent
+d2_s94,Precedent
+d2_s95,Precedent
+d2_s96,Precedent
+d2_s97,Precedent
+d2_s98,Precedent
+d2_s99,Precedent
+d2_s100,Precedent
+d2_s101,Ratio of the decision
+d2_s102,Ratio of the decision
+d2_s103,Ratio of the decision
+d2_s104,Ratio of the decision
+d2_s105,Ratio of the decision
+d2_s106,Ratio of the decision
+d2_s107,Ratio of the decision
+d2_s108,Ratio of the decision
+d2_s109,Ratio of the decision
+d2_s110,Ratio of the decision
+d2_s111,Precedent
+d2_s112,Precedent
+d2_s113,Precedent
+d2_s114,Ratio of the decision
+d2_s115,Ratio of the decision
+d2_s116,Ratio of the decision
+d2_s117,Ratio of the decision
+d2_s118,Ratio of the decision
+d2_s119,Ratio of the decision
+d2_s120,Ratio of the decision
+d2_s121,Ratio of the decision
+d2_s122,Ratio of the decision
+d2_s123,Ratio of the decision
+d2_s124,Ratio of the decision
+d2_s125,Precedent
+d2_s126,Precedent
+d2_s127,Precedent
+d2_s128,Precedent
+d2_s129,Precedent
+d2_s130,Precedent
+d2_s131,Precedent
+d2_s132,Precedent
+d2_s133,Precedent
+d2_s134,Ratio of the decision
+d2_s135,Ratio of the decision
+d2_s136,Ratio of the decision
+d2_s137,Ratio of the decision
+d2_s138,Ratio of the decision
+d2_s139,Ratio of the decision
+d2_s140,Ratio of the decision
+d2_s141,Ratio of the decision
+d2_s142,Ratio of the decision
+d2_s143,Ratio of the decision
+d2_s144,Ratio of the decision
+d2_s145,Ratio of the decision
+d2_s146,Ratio of the decision
+d2_s147,Ratio of the decision
+d2_s148,Precedent
+d2_s149,Precedent
+d2_s150,Precedent
+d2_s151,Ratio of the decision
+d2_s152,Ratio of the decision
+d2_s153,Precedent
+d2_s154,Precedent
+d2_s155,Precedent
+d2_s156,Precedent
+d2_s157,Precedent
+d2_s158,Precedent
+d2_s159,Ratio of the decision
+d2_s160,Ratio of the decision
+d2_s161,Ratio of the decision
+d2_s162,Ratio of the decision
+d2_s163,Ratio of the decision
+d2_s164,Precedent
+d2_s165,Precedent
+d2_s166,Precedent
+d2_s167,Precedent
+d2_s168,Precedent
+d2_s169,Precedent
+d2_s170,Precedent
+d2_s171,Precedent
+d2_s172,Precedent
+d2_s173,Precedent
+d2_s174,Precedent
+d2_s175,Precedent
+d2_s176,Ratio of the decision
+d2_s177,Ratio of the decision
+d2_s178,Ratio of the decision
+d2_s179,Ratio of the decision
+d2_s180,Ratio of the decision
+d2_s181,Ratio of the decision
+d2_s182,Ratio of the decision
+d2_s183,Precedent
+d2_s184,Precedent
+d2_s185,Precedent
+d2_s186,Precedent
+d2_s187,Precedent
+d2_s188,Precedent
+d2_s189,Ratio of the decision
+d2_s190,Ratio of the decision
+d2_s191,Ratio of the decision
+d2_s192,Ratio of the decision
+d2_s193,Ratio of the decision
+d2_s194,Ratio of the decision
+d2_s195,Ratio of the decision
+d2_s196,Ratio of the decision
+d2_s197,Ratio of the decision
+d2_s198,Ratio of the decision
+d2_s199,Ratio of the decision
+d2_s200,Ratio of the decision
+d2_s201,Ratio of the decision
+d2_s202,Ratio of the decision
+d2_s203,Ratio of the decision
+d2_s204,Ratio of the decision
+d2_s205,Ratio of the decision
+d2_s206,Ratio of the decision
+d2_s207,Ratio of the decision
+d2_s208,Ratio of the decision
+d2_s209,Ratio of the decision
+d2_s210,Ratio of the decision
+d2_s211,Ratio of the decision
+d2_s212,Ratio of the decision
+d2_s213,Ratio of the decision
+d2_s214,Ratio of the decision
+d2_s215,Ratio of the decision
+d2_s216,Ratio of the decision
+d2_s217,Ratio of the decision
+d2_s218,Ratio of the decision
+d2_s219,Ratio of the decision
+d2_s220,Ratio of the decision
+d2_s221,Ratio of the decision
+d2_s222,Ratio of the decision
+d2_s223,Ratio of the decision
+d2_s224,Ratio of the decision
+d2_s225,Ratio of the decision
+d2_s226,Ratio of the decision
+d2_s227,Ratio of the decision
+d2_s228,Ratio of the decision
+d2_s229,Ratio of the decision
+d2_s230,Ratio of the decision
+d2_s231,Ratio of the decision
+d2_s232,Ratio of the decision
+d2_s233,Ratio of the decision
+d2_s234,Ratio of the decision
+d2_s235,Ratio of the decision
+d2_s236,Argument
+d2_s237,Precedent
+d2_s238,Precedent
+d2_s239,Precedent
+d2_s240,Precedent
+d2_s241,Precedent
+d2_s242,Precedent
+d2_s243,Ratio of the decision
+d2_s244,Ratio of the decision
+d2_s245,Ratio of the decision
+d2_s246,Ratio of the decision
+d2_s247,Ratio of the decision
+d2_s248,Ratio of the decision
+d2_s249,Ratio of the decision
+d2_s250,Ratio of the decision
+d2_s251,Ratio of the decision
+d2_s252,Ratio of the decision
+d2_s253,Ratio of the decision
+d2_s254,Ratio of the decision
+d2_s255,Ratio of the decision
+d2_s256,Ratio of the decision
+d2_s257,Ratio of the decision
+d2_s258,Ratio of the decision
+d2_s259,Ratio of the decision
+d2_s260,Ratio of the decision
+d2_s261,Ratio of the decision
+d2_s262,Ratio of the decision
+d2_s263,Ruling by Present Court
+d2_s264,Ruling by Present Court
+d2_s265,Ruling by Present Court
+d3_s1,Facts
+d3_s2,Facts
+d3_s3,Facts
+d3_s4,Facts
+d3_s5,Facts
+d3_s6,Facts
+d3_s7,Facts
+d3_s8,Facts
+d3_s9,Facts
+d3_s10,Facts
+d3_s11,Facts
+d3_s12,Facts
+d3_s13,Facts
+d3_s14,Facts
+d3_s15,Facts
+d3_s16,Facts
+d3_s17,Facts
+d3_s18,Facts
+d3_s19,Facts
+d3_s20,Facts
+d3_s21,Facts
+d3_s22,Facts
+d3_s23,Facts
+d3_s24,Facts
+d3_s25,Facts
+d3_s26,Ratio of the decision
+d3_s27,Ratio of the decision
+d3_s28,Precedent
+d3_s29,Precedent
+d3_s30,Precedent
+d3_s31,Precedent
+d3_s32,Statute
+d3_s33,Statute
+d3_s34,Statute
+d3_s35,Statute
+d3_s36,Statute
+d3_s37,Precedent
+d3_s38,Precedent
+d3_s39,Statute
+d3_s40,Precedent
+d3_s41,Precedent
+d3_s42,Precedent
+d3_s43,Precedent
+d3_s44,Precedent
+d3_s45,Precedent
+d3_s46,Precedent
+d3_s47,Precedent
+d3_s48,Precedent
+d3_s49,Precedent
+d3_s50,Ratio of the decision
+d3_s51,Ratio of the decision
+d3_s52,Ratio of the decision
+d3_s53,Ratio of the decision
+d3_s54,Ratio of the decision
+d3_s55,Ratio of the decision
+d3_s56,Ruling by Present Court
+d3_s57,Ruling by Present Court
+d4_s1,Statute
+d4_s2,Statute
+d4_s3,Precedent
+d4_s4,Precedent
+d4_s5,Precedent
+d4_s6,Precedent
+d4_s7,Precedent
+d4_s8,Argument
+d4_s9,Argument
+d4_s10,Argument
+d4_s11,Argument
+d4_s12,Argument
+d4_s13,Argument
+d4_s14,Argument
+d4_s15,Argument
+d4_s16,Facts
+d4_s17,Facts
+d4_s18,Ratio of the decision
+d4_s19,Ratio of the decision
+d4_s20,Ratio of the decision
+d4_s21,Ratio of the decision
+d4_s22,Ratio of the decision
+d4_s23,Ratio of the decision
+d4_s24,Ratio of the decision
+d4_s25,Precedent
+d4_s26,Precedent
+d4_s27,Precedent
+d4_s28,Precedent
+d4_s29,Precedent
+d4_s30,Precedent
+d4_s31,Ratio of the decision
+d4_s32,Ratio of the decision
+d4_s33,Ratio of the decision
+d4_s34,Ratio of the decision
+d4_s35,Ratio of the decision
+d4_s36,Ratio of the decision
+d4_s37,Ratio of the decision
+d4_s38,Ratio of the decision
+d4_s39,Ratio of the decision
+d4_s40,Ratio of the decision
+d4_s41,Ratio of the decision
+d4_s42,Ratio of the decision
+d4_s43,Ratio of the decision
+d4_s44,Facts
+d4_s45,Facts
+d4_s46,Facts
+d4_s47,Facts
+d4_s48,Facts
+d4_s49,Facts
+d4_s50,Facts
+d4_s51,Facts
+d4_s52,Facts
+d4_s53,Facts
+d4_s54,Facts
+d4_s55,Facts
+d4_s56,Facts
+d4_s57,Facts
+d4_s58,Facts
+d4_s59,Facts
+d4_s60,Facts
+d4_s61,Facts
+d4_s62,Facts
+d4_s63,Facts
+d4_s64,Facts
+d4_s65,Facts
+d4_s66,Facts
+d4_s67,Facts
+d4_s68,Facts
+d4_s69,Facts
+d4_s70,Facts
+d4_s71,Facts
+d4_s72,Ratio of the decision
+d4_s73,Ratio of the decision
+d4_s74,Ratio of the decision
+d4_s75,Ratio of the decision
+d4_s76,Ratio of the decision
+d4_s77,Ratio of the decision
+d4_s78,Facts
+d4_s79,Facts
+d4_s80,Facts
+d4_s81,Facts
+d4_s82,Facts
+d4_s83,Facts
+d4_s84,Facts
+d4_s85,Facts
+d4_s86,Facts
+d4_s87,Facts
+d4_s88,Facts
+d4_s89,Facts
+d4_s90,Facts
+d4_s91,Facts
+d4_s92,Ratio of the decision
+d4_s93,Ratio of the decision
+d4_s94,Ratio of the decision
+d4_s95,Ratio of the decision
+d4_s96,Ratio of the decision
+d4_s97,Ratio of the decision
+d4_s98,Ratio of the decision
+d4_s99,Ratio of the decision
+d4_s100,Ratio of the decision
+d4_s101,Ratio of the decision
+d4_s102,Ratio of the decision
+d4_s103,Ratio of the decision
+d4_s104,Ratio of the decision
+d4_s105,Ratio of the decision
+d4_s106,Ratio of the decision
+d4_s107,Ratio of the decision
+d4_s108,Ratio of the decision
+d4_s109,Ratio of the decision
+d4_s110,Ratio of the decision
+d4_s111,Ratio of the decision
+d4_s112,Ratio of the decision
+d4_s113,Ratio of the decision
+d4_s114,Ratio of the decision
+d4_s115,Ratio of the decision
+d4_s116,Ratio of the decision
+d4_s117,Ratio of the decision
+d4_s118,Ratio of the decision
+d4_s119,Ratio of the decision
+d4_s120,Ratio of the decision
+d4_s121,Ratio of the decision
+d4_s122,Ratio of the decision
+d4_s123,Ratio of the decision
+d4_s124,Ratio of the decision
+d4_s125,Ratio of the decision
+d4_s126,Ratio of the decision
+d4_s127,Ratio of the decision
+d4_s128,Ratio of the decision
+d4_s129,Ratio of the decision
+d4_s130,Ratio of the decision
+d4_s131,Ratio of the decision
+d4_s132,Ratio of the decision
+d4_s133,Ratio of the decision
+d4_s134,Ratio of the decision
+d4_s135,Ratio of the decision
+d4_s136,Ratio of the decision
+d4_s137,Ratio of the decision
+d4_s138,Ratio of the decision
+d4_s139,Ratio of the decision
+d4_s140,Ratio of the decision
+d4_s141,Ratio of the decision
+d4_s142,Ratio of the decision
+d4_s143,Ratio of the decision
+d4_s144,Ratio of the decision
+d4_s145,Ratio of the decision
+d4_s146,Ratio of the decision
+d4_s147,Ratio of the decision
+d4_s148,Ratio of the decision
+d4_s149,Ratio of the decision
+d4_s150,Ratio of the decision
+d4_s151,Ratio of the decision
+d4_s152,Ratio of the decision
+d4_s153,Ratio of the decision
+d4_s154,Ratio of the decision
+d4_s155,Ratio of the decision
+d4_s156,Ratio of the decision
+d4_s157,Precedent
+d4_s158,Precedent
+d4_s159,Precedent
+d4_s160,Precedent
+d4_s161,Precedent
+d4_s162,Precedent
+d4_s163,Precedent
+d4_s164,Precedent
+d4_s165,Argument
+d4_s166,Argument
+d4_s167,Argument
+d4_s168,Ratio of the decision
+d4_s169,Ratio of the decision
+d4_s170,Ratio of the decision
+d4_s171,Ratio of the decision
+d4_s172,Ratio of the decision
+d4_s173,Ratio of the decision
+d4_s174,Ratio of the decision
+d4_s175,Ratio of the decision
+d4_s176,Ratio of the decision
+d4_s177,Ratio of the decision
+d4_s178,Ratio of the decision
+d4_s179,Ratio of the decision
+d4_s180,Ratio of the decision
+d4_s181,Ratio of the decision
+d4_s182,Ratio of the decision
+d4_s183,Ratio of the decision
+d4_s184,Ratio of the decision
+d4_s185,Ratio of the decision
+d4_s186,Ratio of the decision
+d4_s187,Ratio of the decision
+d4_s188,Ratio of the decision
+d4_s189,Ratio of the decision
+d4_s190,Ratio of the decision
+d4_s191,Ratio of the decision
+d4_s192,Ratio of the decision
+d4_s193,Ratio of the decision
+d4_s194,Ratio of the decision
+d4_s195,Ratio of the decision
+d4_s196,Ratio of the decision
+d4_s197,Ratio of the decision
+d4_s198,Ratio of the decision
+d4_s199,Ratio of the decision
+d4_s200,Ratio of the decision
+d4_s201,Ratio of the decision
+d4_s202,Ratio of the decision
+d4_s203,Ratio of the decision
+d4_s204,Ratio of the decision
+d4_s205,Ratio of the decision
+d4_s206,Ratio of the decision
+d4_s207,Ratio of the decision
+d4_s208,Ratio of the decision
+d4_s209,Ratio of the decision
+d4_s210,Ratio of the decision
+d4_s211,Ratio of the decision
+d4_s212,Ratio of the decision
+d4_s213,Ratio of the decision
+d4_s214,Ratio of the decision
+d4_s215,Ratio of the decision
+d4_s216,Ratio of the decision
+d4_s217,Ratio of the decision
+d4_s218,Ratio of the decision
+d4_s219,Ratio of the decision
+d4_s220,Ratio of the decision
+d4_s221,Ratio of the decision
+d4_s222,Ratio of the decision
+d4_s223,Ratio of the decision
+d4_s224,Ratio of the decision
+d4_s225,Ratio of the decision
+d4_s226,Ratio of the decision
+d4_s227,Ratio of the decision
+d4_s228,Ratio of the decision
+d4_s229,Ratio of the decision
+d4_s230,Ratio of the decision
+d4_s231,Ratio of the decision
+d4_s232,Ratio of the decision
+d4_s233,Ratio of the decision
+d4_s234,Ratio of the decision
+d4_s235,Ratio of the decision
+d4_s236,Ratio of the decision
+d4_s237,Ratio of the decision
+d4_s238,Ratio of the decision
+d4_s239,Ratio of the decision
+d4_s240,Ratio of the decision
+d4_s241,Ratio of the decision
+d4_s242,Ruling by Present Court
+d4_s243,Ruling by Present Court
+d5_s1,Facts
+d5_s2,Facts
+d5_s3,Facts
+d5_s4,Facts
+d5_s5,Facts
+d5_s6,Facts
+d5_s7,Facts
+d5_s8,Facts
+d5_s9,Facts
+d5_s10,Facts
+d5_s11,Facts
+d5_s12,Facts
+d5_s13,Facts
+d5_s14,Facts
+d5_s15,Facts
+d5_s16,Facts
+d5_s17,Facts
+d5_s18,Facts
+d5_s19,Facts
+d5_s20,Facts
+d5_s21,Facts
+d5_s22,Facts
+d5_s23,Facts
+d5_s24,Facts
+d5_s25,Facts
+d5_s26,Facts
+d5_s27,Facts
+d5_s28,Facts
+d5_s29,Facts
+d5_s30,Facts
+d5_s31,Facts
+d5_s32,Facts
+d5_s33,Facts
+d5_s34,Facts
+d5_s35,Facts
+d5_s36,Facts
+d5_s37,Facts
+d5_s38,Facts
+d5_s39,Facts
+d5_s40,Facts
+d5_s41,Facts
+d5_s42,Facts
+d5_s43,Facts
+d5_s44,Facts
+d5_s45,Facts
+d5_s46,Facts
+d5_s47,Facts
+d5_s48,Facts
+d5_s49,Facts
+d5_s50,Argument
+d5_s51,Precedent
+d5_s52,Precedent
+d5_s53,Precedent
+d5_s54,Precedent
+d5_s55,Precedent
+d5_s56,Precedent
+d5_s57,Argument
+d5_s58,Argument
+d5_s59,Ratio of the decision
+d5_s60,Ratio of the decision
+d5_s61,Argument
+d5_s62,Ratio of the decision
+d5_s63,Ratio of the decision
+d5_s64,Precedent
+d5_s65,Precedent
+d5_s66,Precedent
+d5_s67,Ratio of the decision
+d5_s68,Ratio of the decision
+d5_s69,Ratio of the decision
+d5_s70,Ratio of the decision
+d5_s71,Ratio of the decision
+d5_s72,Ratio of the decision
+d5_s73,Ratio of the decision
+d5_s74,Ratio of the decision
+d5_s75,Ratio of the decision
+d5_s76,Ratio of the decision
+d5_s77,Ratio of the decision
+d5_s78,Ratio of the decision
+d5_s79,Ratio of the decision
+d5_s80,Ratio of the decision
+d5_s81,Ratio of the decision
+d5_s82,Ratio of the decision
+d5_s83,Ratio of the decision
+d5_s84,Ratio of the decision
+d5_s85,Ratio of the decision
+d5_s86,Ratio of the decision
+d5_s87,Ratio of the decision
+d5_s88,Ratio of the decision
+d5_s89,Ratio of the decision
+d5_s90,Ratio of the decision
+d5_s91,Ratio of the decision
+d5_s92,Ratio of the decision
+d5_s93,Ratio of the decision
+d5_s94,Ratio of the decision
+d5_s95,Ratio of the decision
+d5_s96,Ratio of the decision
+d5_s97,Ratio of the decision
+d5_s98,Ratio of the decision
+d5_s99,Ratio of the decision
+d5_s100,Ratio of the decision
+d5_s101,Ratio of the decision
+d5_s102,Ratio of the decision
+d5_s103,Ratio of the decision
+d5_s104,Ratio of the decision
+d5_s105,Ratio of the decision
+d5_s106,Ratio of the decision
+d5_s107,Ratio of the decision
+d5_s108,Ratio of the decision
+d5_s109,Ratio of the decision
+d5_s110,Ratio of the decision
+d5_s111,Ratio of the decision
+d5_s112,Ratio of the decision
+d5_s113,Ratio of the decision
+d5_s114,Ratio of the decision
+d5_s115,Ratio of the decision
+d5_s116,Ratio of the decision
+d5_s117,Precedent
+d5_s118,Precedent
+d5_s119,Facts
+d5_s120,Facts
+d5_s121,Facts
+d5_s122,Facts
+d5_s123,Facts
+d5_s124,Facts
+d5_s125,Facts
+d5_s126,Facts
+d5_s127,Precedent
+d5_s128,Precedent
+d5_s129,Precedent
+d5_s130,Precedent
+d5_s131,Ratio of the decision
+d5_s132,Ratio of the decision
+d5_s133,Ratio of the decision
+d5_s134,Ratio of the decision
+d5_s135,Ratio of the decision
+d5_s136,Ratio of the decision
+d5_s137,Ratio of the decision
+d5_s138,Ratio of the decision
+d5_s139,Ratio of the decision
+d5_s140,Ratio of the decision
+d5_s141,Ratio of the decision
+d5_s142,Ratio of the decision
+d5_s143,Ratio of the decision
+d5_s144,Ratio of the decision
+d5_s145,Ratio of the decision
+d5_s146,Ratio of the decision
+d5_s147,Statute
+d5_s148,Statute
+d5_s149,Statute
+d5_s150,Ratio of the decision
+d5_s151,Ratio of the decision
+d5_s152,Ratio of the decision
+d5_s153,Ratio of the decision
+d5_s154,Ratio of the decision
+d5_s155,Ratio of the decision
+d5_s156,Ratio of the decision
+d5_s157,Ratio of the decision
+d5_s158,Ratio of the decision
+d5_s159,Ratio of the decision
+d5_s160,Ratio of the decision
+d5_s161,Ratio of the decision
+d5_s162,Ratio of the decision
+d5_s163,Ratio of the decision
+d5_s164,Ratio of the decision
+d5_s165,Ratio of the decision
+d5_s166,Ratio of the decision
+d5_s167,Ratio of the decision
+d5_s168,Ratio of the decision
+d5_s169,Ratio of the decision
+d5_s170,Ratio of the decision
+d5_s171,Ratio of the decision
+d5_s172,Ratio of the decision
+d5_s173,Ratio of the decision
+d5_s174,Ratio of the decision
+d5_s175,Ratio of the decision
+d5_s176,Ratio of the decision
+d5_s177,Ratio of the decision
+d5_s178,Ratio of the decision
+d5_s179,Ratio of the decision
+d5_s180,Ratio of the decision
+d5_s181,Ratio of the decision
+d5_s182,Ratio of the decision
+d5_s183,Ratio of the decision
+d5_s184,Ratio of the decision
+d5_s185,Ratio of the decision
+d5_s186,Ratio of the decision
+d5_s187,Ratio of the decision
+d5_s188,Ratio of the decision
+d5_s189,Ratio of the decision
+d5_s190,Ratio of the decision
+d5_s191,Ratio of the decision
+d5_s192,Ratio of the decision
+d5_s193,Ratio of the decision
+d5_s194,Ratio of the decision
+d5_s195,Ratio of the decision
+d5_s196,Ratio of the decision
+d5_s197,Ratio of the decision
+d5_s198,Ratio of the decision
+d5_s199,Ratio of the decision
+d5_s200,Ratio of the decision
+d5_s201,Facts
+d5_s202,Facts
+d5_s203,Ratio of the decision
+d5_s204,Ratio of the decision
+d5_s205,Ratio of the decision
+d5_s206,Ratio of the decision
+d5_s207,Ratio of the decision
+d5_s208,Ratio of the decision
+d5_s209,Ratio of the decision
+d5_s210,Ratio of the decision
+d5_s211,Ratio of the decision
+d5_s212,Ratio of the decision
+d5_s213,Ratio of the decision
+d5_s214,Facts
+d5_s215,Facts
+d5_s216,Ratio of the decision
+d5_s217,Ratio of the decision
+d5_s218,Ratio of the decision
+d5_s219,Ratio of the decision
+d5_s220,Ratio of the decision
+d5_s221,Ratio of the decision
+d5_s222,Ratio of the decision
+d5_s223,Ratio of the decision
+d5_s224,Ratio of the decision
+d5_s225,Ratio of the decision
+d5_s226,Ratio of the decision
+d5_s227,Ratio of the decision
+d5_s228,Ratio of the decision
+d5_s229,Ratio of the decision
+d5_s230,Ratio of the decision
+d5_s231,Ratio of the decision
+d5_s232,Ratio of the decision
+d5_s233,Ratio of the decision
+d5_s234,Ratio of the decision
+d5_s235,Ratio of the decision
+d5_s236,Ratio of the decision
+d5_s237,Ratio of the decision
+d5_s238,Ratio of the decision
+d5_s239,Ratio of the decision
+d5_s240,Ratio of the decision
+d5_s241,Ratio of the decision
+d5_s242,Ratio of the decision
+d5_s243,Ratio of the decision
+d5_s244,Ratio of the decision
+d5_s245,Ratio of the decision
+d5_s246,Ruling by Present Court
+d6_s1,Ratio of the decision
+d6_s2,Ratio of the decision
+d6_s3,Ratio of the decision
+d6_s4,Ratio of the decision
+d6_s5,Statute
+d6_s6,Statute
+d6_s7,Statute
+d6_s8,Statute
+d6_s9,Statute
+d6_s10,Ratio of the decision
+d6_s11,Ratio of the decision
+d6_s12,Ratio of the decision
+d6_s13,Ratio of the decision
+d6_s14,Statute
+d6_s15,Statute
+d6_s16,Statute
+d6_s17,Statute
+d6_s18,Statute
+d6_s19,Ratio of the decision
+d6_s20,Ratio of the decision
+d6_s21,Ratio of the decision
+d6_s22,Ratio of the decision
+d6_s23,Ratio of the decision
+d6_s24,Ratio of the decision
+d6_s25,Ratio of the decision
+d6_s26,Ratio of the decision
+d6_s27,Ratio of the decision
+d6_s28,Precedent
+d6_s29,Precedent
+d6_s30,Precedent
+d6_s31,Precedent
+d6_s32,Precedent
+d6_s33,Precedent
+d6_s34,Precedent
+d6_s35,Precedent
+d6_s36,Precedent
+d6_s37,Precedent
+d6_s38,Precedent
+d6_s39,Ratio of the decision
+d6_s40,Ratio of the decision
+d6_s41,Ratio of the decision
+d6_s42,Ratio of the decision
+d6_s43,Precedent
+d6_s44,Precedent
+d6_s45,Precedent
+d6_s46,Precedent
+d6_s47,Precedent
+d6_s48,Precedent
+d6_s49,Precedent
+d6_s50,Precedent
+d6_s51,Precedent
+d6_s52,Precedent
+d6_s53,Precedent
+d6_s54,Facts
+d6_s55,Facts
+d6_s56,Facts
+d6_s57,Facts
+d6_s58,Facts
+d6_s59,Facts
+d6_s60,Facts
+d6_s61,Facts
+d6_s62,Facts
+d6_s63,Facts
+d6_s64,Facts
+d6_s65,Facts
+d6_s66,Facts
+d6_s67,Facts
+d6_s68,Statute
+d6_s69,Statute
+d6_s70,Statute
+d6_s71,Statute
+d6_s72,Statute
+d6_s73,Statute
+d6_s74,Statute
+d6_s75,Statute
+d6_s76,Statute
+d6_s77,Statute
+d6_s78,Statute
+d6_s79,Statute
+d6_s80,Statute
+d6_s81,Statute
+d6_s82,Statute
+d6_s83,Precedent
+d6_s84,Precedent
+d6_s85,Statute
+d6_s86,Statute
+d6_s87,Statute
+d6_s88,Statute
+d6_s89,Statute
+d6_s90,Statute
+d6_s91,Statute
+d6_s92,Ratio of the decision
+d6_s93,Ratio of the decision
+d6_s94,Ratio of the decision
+d6_s95,Statute
+d6_s96,Statute
+d6_s97,Statute
+d6_s98,Statute
+d6_s99,Statute
+d6_s100,Statute
+d6_s101,Statute
+d6_s102,Precedent
+d6_s103,Precedent
+d6_s104,Precedent
+d6_s105,Precedent
+d6_s106,Precedent
+d6_s107,Precedent
+d6_s108,Precedent
+d6_s109,Precedent
+d6_s110,Precedent
+d6_s111,Ratio of the decision
+d6_s112,Ratio of the decision
+d6_s113,Ratio of the decision
+d6_s114,Ratio of the decision
+d6_s115,Ratio of the decision
+d6_s116,Ratio of the decision
+d6_s117,Ratio of the decision
+d6_s118,Ratio of the decision
+d6_s119,Precedent
+d6_s120,Precedent
+d6_s121,Precedent
+d6_s122,Ratio of the decision
+d6_s123,Ratio of the decision
+d6_s124,Ratio of the decision
+d6_s125,Ratio of the decision
+d6_s126,Ratio of the decision
+d6_s127,Ratio of the decision
+d6_s128,Ratio of the decision
+d6_s129,Ratio of the decision
+d6_s130,Ratio of the decision
+d6_s131,Ratio of the decision
+d6_s132,Ratio of the decision
+d6_s133,Ratio of the decision
+d6_s134,Ratio of the decision
+d6_s135,Ratio of the decision
+d6_s136,Ratio of the decision
+d6_s137,Ratio of the decision
+d6_s138,Ratio of the decision
+d6_s139,Ratio of the decision
+d6_s140,Ratio of the decision
+d6_s141,Ratio of the decision
+d6_s142,Ratio of the decision
+d6_s143,Ratio of the decision
+d6_s144,Ratio of the decision
+d6_s145,Ratio of the decision
+d6_s146,Ratio of the decision
+d6_s147,Ratio of the decision
+d6_s148,Ratio of the decision
+d6_s149,Ratio of the decision
+d6_s150,Ratio of the decision
+d6_s151,Ratio of the decision
+d6_s152,Ratio of the decision
+d6_s153,Ratio of the decision
+d6_s154,Ratio of the decision
+d6_s155,Ratio of the decision
+d6_s156,Ratio of the decision
+d6_s157,Ratio of the decision
+d6_s158,Ratio of the decision
+d6_s159,Ratio of the decision
+d6_s160,Ratio of the decision
+d6_s161,Ratio of the decision
+d6_s162,Ratio of the decision
+d6_s163,Ratio of the decision
+d6_s164,Ratio of the decision
+d6_s165,Ratio of the decision
+d6_s166,Ratio of the decision
+d6_s167,Ratio of the decision
+d6_s168,Ratio of the decision
+d6_s169,Ratio of the decision
+d6_s170,Ratio of the decision
+d6_s171,Ratio of the decision
+d6_s172,Ratio of the decision
+d6_s173,Ratio of the decision
+d6_s174,Ratio of the decision
+d6_s175,Ratio of the decision
+d6_s176,Ratio of the decision
+d6_s177,Ratio of the decision
+d6_s178,Ratio of the decision
+d6_s179,Facts
+d6_s180,Facts
+d6_s181,Facts
+d6_s182,Facts
+d6_s183,Facts
+d6_s184,Ratio of the decision
+d6_s185,Facts
+d6_s186,Facts
+d6_s187,Facts
+d6_s188,Facts
+d6_s189,Facts
+d6_s190,Facts
+d6_s191,Ratio of the decision
+d6_s192,Ratio of the decision
+d6_s193,Ratio of the decision
+d6_s194,Ratio of the decision
+d6_s195,Ratio of the decision
+d6_s196,Ratio of the decision
+d6_s197,Ratio of the decision
+d6_s198,Ratio of the decision
+d6_s199,Ratio of the decision
+d6_s200,Precedent
+d6_s201,Precedent
+d6_s202,Precedent
+d6_s203,Precedent
+d6_s204,Ratio of the decision
+d6_s205,Ratio of the decision
+d6_s206,Ratio of the decision
+d6_s207,Ratio of the decision
+d6_s208,Ratio of the decision
+d6_s209,Ratio of the decision
+d6_s210,Ratio of the decision
+d6_s211,Ratio of the decision
+d6_s212,Ratio of the decision
+d6_s213,Ratio of the decision
+d6_s214,Ratio of the decision
+d6_s215,Ratio of the decision
+d6_s216,Ratio of the decision
+d6_s217,Ratio of the decision
+d6_s218,Ratio of the decision
+d6_s219,Ratio of the decision
+d6_s220,Ratio of the decision
+d6_s221,Ratio of the decision
+d6_s222,Ratio of the decision
+d6_s223,Ratio of the decision
+d6_s224,Ratio of the decision
+d6_s225,Ratio of the decision
+d6_s226,Ratio of the decision
+d6_s227,Ratio of the decision
+d6_s228,Ratio of the decision
+d6_s229,Ratio of the decision
+d6_s230,Ratio of the decision
+d6_s231,Ratio of the decision
+d6_s232,Ratio of the decision
+d6_s233,Ratio of the decision
+d6_s234,Ratio of the decision
+d6_s235,Ratio of the decision
+d6_s236,Ratio of the decision
+d6_s237,Ratio of the decision
+d6_s238,Ratio of the decision
+d6_s239,Ratio of the decision
+d6_s240,Ratio of the decision
+d6_s241,Ratio of the decision
+d6_s242,Ratio of the decision
+d6_s243,Ratio of the decision
+d6_s244,Ratio of the decision
+d6_s245,Ratio of the decision
+d6_s246,Ratio of the decision
+d6_s247,Ratio of the decision
+d6_s248,Ratio of the decision
+d6_s249,Ratio of the decision
+d6_s250,Ratio of the decision
+d6_s251,Ratio of the decision
+d6_s252,Ratio of the decision
+d6_s253,Ratio of the decision
+d6_s254,Argument
+d6_s255,Ratio of the decision
+d6_s256,Ratio of the decision
+d6_s257,Argument
+d6_s258,Ratio of the decision
+d6_s259,Ratio of the decision
+d6_s260,Ratio of the decision
+d6_s261,Ratio of the decision
+d6_s262,Ratio of the decision
+d6_s263,Ratio of the decision
+d6_s264,Ratio of the decision
+d6_s265,Ratio of the decision
+d6_s266,Ratio of the decision
+d6_s267,Argument
+d6_s268,Facts
+d6_s269,Facts
+d6_s270,Facts
+d6_s271,Facts
+d6_s272,Facts
+d6_s273,Statute
+d6_s274,Statute
+d6_s275,Ratio of the decision
+d6_s276,Ratio of the decision
+d6_s277,Ratio of the decision
+d6_s278,Ratio of the decision
+d6_s279,Ratio of the decision
+d6_s280,Ratio of the decision
+d6_s281,Ratio of the decision
+d6_s282,Precedent
+d6_s283,Precedent
+d6_s284,Precedent
+d6_s285,Statute
+d6_s286,Ratio of the decision
+d6_s287,Ruling by Present Court
+d6_s288,Ruling by Present Court
+d7_s1,Ratio of the decision
+d7_s2,Ratio of the decision
+d7_s3,Ratio of the decision
+d7_s4,Ratio of the decision
+d7_s5,Ratio of the decision
+d7_s6,Ratio of the decision
+d7_s7,Ratio of the decision
+d7_s8,Ratio of the decision
+d7_s9,Ratio of the decision
+d7_s10,Ratio of the decision
+d7_s11,Ratio of the decision
+d7_s12,Ratio of the decision
+d7_s13,Ratio of the decision
+d7_s14,Ratio of the decision
+d7_s15,Facts
+d7_s16,Facts
+d7_s17,Facts
+d7_s18,Facts
+d7_s19,Facts
+d7_s20,Facts
+d7_s21,Facts
+d7_s22,Facts
+d7_s23,Facts
+d7_s24,Facts
+d7_s25,Facts
+d7_s26,Facts
+d7_s27,Facts
+d7_s28,Facts
+d7_s29,Facts
+d7_s30,Facts
+d7_s31,Facts
+d7_s32,Facts
+d7_s33,Facts
+d7_s34,Facts
+d7_s35,Facts
+d7_s36,Facts
+d7_s37,Facts
+d7_s38,Facts
+d7_s39,Facts
+d7_s40,Facts
+d7_s41,Facts
+d7_s42,Facts
+d7_s43,Facts
+d7_s44,Facts
+d7_s45,Ratio of the decision
+d7_s46,Ratio of the decision
+d7_s47,Ratio of the decision
+d7_s48,Ratio of the decision
+d7_s49,Ratio of the decision
+d7_s50,Ratio of the decision
+d7_s51,Ratio of the decision
+d7_s52,Ratio of the decision
+d7_s53,Ratio of the decision
+d7_s54,Ratio of the decision
+d7_s55,Ratio of the decision
+d7_s56,Ratio of the decision
+d7_s57,Ratio of the decision
+d7_s58,Ratio of the decision
+d7_s59,Ratio of the decision
+d7_s60,Ratio of the decision
+d7_s61,Ratio of the decision
+d7_s62,Ratio of the decision
+d7_s63,Ratio of the decision
+d7_s64,Statute
+d7_s65,Statute
+d7_s66,Statute
+d7_s67,Statute
+d7_s68,Statute
+d7_s69,Statute
+d7_s70,Statute
+d7_s71,Precedent
+d7_s72,Ratio of the decision
+d7_s73,Ratio of the decision
+d7_s74,Ratio of the decision
+d7_s75,Statute
+d7_s76,Statute
+d7_s77,Statute
+d7_s78,Ratio of the decision
+d7_s79,Ratio of the decision
+d7_s80,Ratio of the decision
+d7_s81,Ratio of the decision
+d7_s82,Ratio of the decision
+d7_s83,Precedent
+d7_s84,Precedent
+d7_s85,Precedent
+d7_s86,Argument
+d7_s87,Argument
+d7_s88,Argument
+d7_s89,Argument
+d7_s90,Argument
+d7_s91,Argument
+d7_s92,Argument
+d7_s93,Ratio of the decision
+d7_s94,Ratio of the decision
+d7_s95,Ratio of the decision
+d7_s96,Ratio of the decision
+d7_s97,Ratio of the decision
+d7_s98,Ratio of the decision
+d7_s99,Ratio of the decision
+d7_s100,Ratio of the decision
+d7_s101,Ratio of the decision
+d7_s102,Ratio of the decision
+d7_s103,Ratio of the decision
+d7_s104,Ratio of the decision
+d7_s105,Ratio of the decision
+d7_s106,Ratio of the decision
+d7_s107,Ratio of the decision
+d7_s108,Ratio of the decision
+d7_s109,Ratio of the decision
+d7_s110,Ratio of the decision
+d7_s111,Ratio of the decision
+d7_s112,Ratio of the decision
+d7_s113,Ratio of the decision
+d7_s114,Ratio of the decision
+d7_s115,Ratio of the decision
+d7_s116,Ratio of the decision
+d7_s117,Ratio of the decision
+d7_s118,Ratio of the decision
+d7_s119,Ratio of the decision
+d7_s120,Ratio of the decision
+d7_s121,Ratio of the decision
+d7_s122,Ratio of the decision
+d7_s123,Ratio of the decision
+d7_s124,Ratio of the decision
+d7_s125,Ratio of the decision
+d7_s126,Ratio of the decision
+d7_s127,Ratio of the decision
+d7_s128,Statute
+d7_s129,Statute
+d7_s130,Statute
+d7_s131,Statute
+d7_s132,Statute
+d7_s133,Statute
+d7_s134,Statute
+d7_s135,Statute
+d7_s136,Statute
+d7_s137,Statute
+d7_s138,Statute
+d7_s139,Statute
+d7_s140,Ratio of the decision
+d7_s141,Ratio of the decision
+d7_s142,Statute
+d7_s143,Statute
+d7_s144,Statute
+d7_s145,Statute
+d7_s146,Statute
+d7_s147,Statute
+d7_s148,Statute
+d7_s149,Statute
+d7_s150,Statute
+d7_s151,Statute
+d7_s152,Statute
+d7_s153,Statute
+d7_s154,Statute
+d7_s155,Statute
+d7_s156,Statute
+d7_s157,Statute
+d7_s158,Statute
+d7_s159,Statute
+d7_s160,Statute
+d7_s161,Statute
+d7_s162,Statute
+d7_s163,Statute
+d7_s164,Statute
+d7_s165,Statute
+d7_s166,Statute
+d7_s167,Statute
+d7_s168,Statute
+d7_s169,Statute
+d7_s170,Ratio of the decision
+d7_s171,Ratio of the decision
+d7_s172,Ratio of the decision
+d7_s173,Ratio of the decision
+d7_s174,Ratio of the decision
+d7_s175,Ratio of the decision
+d7_s176,Ratio of the decision
+d7_s177,Ratio of the decision
+d7_s178,Ratio of the decision
+d7_s179,Ratio of the decision
+d7_s180,Ratio of the decision
+d7_s181,Ratio of the decision
+d7_s182,Ratio of the decision
+d7_s183,Ratio of the decision
+d7_s184,Ratio of the decision
+d7_s185,Ratio of the decision
+d7_s186,Ratio of the decision
+d7_s187,Ratio of the decision
+d7_s188,Ratio of the decision
+d7_s189,Ratio of the decision
+d7_s190,Ratio of the decision
+d7_s191,Ratio of the decision
+d7_s192,Ratio of the decision
+d7_s193,Ratio of the decision
+d7_s194,Ratio of the decision
+d7_s195,Ratio of the decision
+d7_s196,Ratio of the decision
+d7_s197,Ratio of the decision
+d7_s198,Ratio of the decision
+d7_s199,Ratio of the decision
+d7_s200,Ratio of the decision
+d7_s201,Ratio of the decision
+d7_s202,Ratio of the decision
+d7_s203,Ratio of the decision
+d7_s204,Ratio of the decision
+d7_s205,Ratio of the decision
+d7_s206,Ratio of the decision
+d7_s207,Ratio of the decision
+d7_s208,Ratio of the decision
+d7_s209,Ratio of the decision
+d7_s210,Ratio of the decision
+d7_s211,Ratio of the decision
+d7_s212,Ratio of the decision
+d7_s213,Ratio of the decision
+d7_s214,Ratio of the decision
+d7_s215,Ratio of the decision
+d7_s216,Ratio of the decision
+d7_s217,Ratio of the decision
+d7_s218,Ratio of the decision
+d7_s219,Ratio of the decision
+d7_s220,Ratio of the decision
+d7_s221,Ratio of the decision
+d7_s222,Ratio of the decision
+d7_s223,Ratio of the decision
+d7_s224,Ratio of the decision
+d7_s225,Ratio of the decision
+d7_s226,Ratio of the decision
+d7_s227,Ratio of the decision
+d7_s228,Ratio of the decision
+d7_s229,Ratio of the decision
+d7_s230,Ratio of the decision
+d7_s231,Ratio of the decision
+d7_s232,Ratio of the decision
+d7_s233,Ratio of the decision
+d7_s234,Ratio of the decision
+d7_s235,Ratio of the decision
+d7_s236,Ratio of the decision
+d7_s237,Ratio of the decision
+d7_s238,Ratio of the decision
+d7_s239,Ratio of the decision
+d7_s240,Ratio of the decision
+d7_s241,Ratio of the decision
+d7_s242,Ratio of the decision
+d7_s243,Ratio of the decision
+d7_s244,Ratio of the decision
+d7_s245,Ratio of the decision
+d7_s246,Ratio of the decision
+d7_s247,Ratio of the decision
+d7_s248,Ratio of the decision
+d7_s249,Ratio of the decision
+d7_s250,Ratio of the decision
+d7_s251,Ratio of the decision
+d7_s252,Ratio of the decision
+d7_s253,Ratio of the decision
+d7_s254,Ratio of the decision
+d7_s255,Ratio of the decision
+d7_s256,Ratio of the decision
+d7_s257,Ratio of the decision
+d7_s258,Ratio of the decision
+d7_s259,Ratio of the decision
+d7_s260,Ratio of the decision
+d7_s261,Ratio of the decision
+d7_s262,Ratio of the decision
+d7_s263,Ratio of the decision
+d7_s264,Ratio of the decision
+d7_s265,Ratio of the decision
+d7_s266,Ratio of the decision
+d7_s267,Ratio of the decision
+d7_s268,Ratio of the decision
+d7_s269,Ratio of the decision
+d7_s270,Ratio of the decision
+d7_s271,Ratio of the decision
+d7_s272,Ratio of the decision
+d7_s273,Ratio of the decision
+d7_s274,Ratio of the decision
+d7_s275,Ratio of the decision
+d7_s276,Ratio of the decision
+d7_s277,Ratio of the decision
+d7_s278,Ratio of the decision
+d7_s279,Ratio of the decision
+d7_s280,Ratio of the decision
+d7_s281,Ratio of the decision
+d7_s282,Ratio of the decision
+d7_s283,Ratio of the decision
+d7_s284,Ratio of the decision
+d7_s285,Ratio of the decision
+d7_s286,Ratio of the decision
+d7_s287,Ratio of the decision
+d7_s288,Ratio of the decision
+d7_s289,Ratio of the decision
+d7_s290,Ratio of the decision
+d7_s291,Ratio of the decision
+d7_s292,Ratio of the decision
+d7_s293,Ratio of the decision
+d7_s294,Ratio of the decision
+d7_s295,Precedent
+d7_s296,Precedent
+d7_s297,Precedent
+d7_s298,Precedent
+d7_s299,Precedent
+d7_s300,Precedent
+d7_s301,Precedent
+d7_s302,Precedent
+d7_s303,Precedent
+d7_s304,Precedent
+d7_s305,Precedent
+d7_s306,Precedent
+d7_s307,Precedent
+d7_s308,Precedent
+d7_s309,Precedent
+d7_s310,Precedent
+d7_s311,Precedent
+d7_s312,Precedent
+d7_s313,Ratio of the decision
+d7_s314,Ratio of the decision
+d7_s315,Ratio of the decision
+d7_s316,Ratio of the decision
+d7_s317,Ratio of the decision
+d7_s318,Ratio of the decision
+d7_s319,Ratio of the decision
+d7_s320,Facts
+d7_s321,Facts
+d7_s322,Facts
+d7_s323,Facts
+d7_s324,Facts
+d7_s325,Facts
+d7_s326,Facts
+d7_s327,Facts
+d7_s328,Facts
+d7_s329,Statute
+d7_s330,Statute
+d7_s331,Statute
+d7_s332,Statute
+d7_s333,Statute
+d7_s334,Ratio of the decision
+d7_s335,Ratio of the decision
+d7_s336,Facts
+d7_s337,Facts
+d7_s338,Facts
+d7_s339,Facts
+d7_s340,Facts
+d7_s341,Facts
+d7_s342,Facts
+d7_s343,Facts
+d7_s344,Facts
+d7_s345,Facts
+d7_s346,Facts
+d7_s347,Argument
+d7_s348,Argument
+d7_s349,Ratio of the decision
+d7_s350,Ratio of the decision
+d7_s351,Ratio of the decision
+d7_s352,Ratio of the decision
+d7_s353,Ratio of the decision
+d7_s354,Ratio of the decision
+d7_s355,Ratio of the decision
+d7_s356,Ratio of the decision
+d7_s357,Ratio of the decision
+d7_s358,Ratio of the decision
+d7_s359,Ratio of the decision
+d7_s360,Ratio of the decision
+d7_s361,Ratio of the decision
+d7_s362,Ratio of the decision
+d7_s363,Ratio of the decision
+d7_s364,Ratio of the decision
+d7_s365,Ratio of the decision
+d7_s366,Statute
+d7_s367,Statute
+d7_s368,Statute
+d7_s369,Statute
+d7_s370,Statute
+d7_s371,Statute
+d7_s372,Statute
+d7_s373,Statute
+d7_s374,Statute
+d7_s375,Statute
+d7_s376,Ratio of the decision
+d7_s377,Ratio of the decision
+d7_s378,Ratio of the decision
+d7_s379,Statute
+d7_s380,Ratio of the decision
+d7_s381,Ratio of the decision
+d7_s382,Ratio of the decision
+d7_s383,Ratio of the decision
+d7_s384,Ratio of the decision
+d7_s385,Ratio of the decision
+d7_s386,Ratio of the decision
+d7_s387,Precedent
+d7_s388,Precedent
+d7_s389,Precedent
+d7_s390,Precedent
+d8_s1,Ratio of the decision
+d8_s2,Ratio of the decision
+d8_s3,Ratio of the decision
+d8_s4,Ratio of the decision
+d8_s5,Ratio of the decision
+d8_s6,Ratio of the decision
+d8_s7,Ratio of the decision
+d8_s8,Ratio of the decision
+d8_s9,Ratio of the decision
+d8_s10,Ratio of the decision
+d8_s11,Ratio of the decision
+d8_s12,Ratio of the decision
+d8_s13,Ratio of the decision
+d8_s14,Ratio of the decision
+d8_s15,Ratio of the decision
+d8_s16,Ratio of the decision
+d8_s17,Ratio of the decision
+d8_s18,Ratio of the decision
+d8_s19,Ratio of the decision
+d8_s20,Ratio of the decision
+d8_s21,Ratio of the decision
+d8_s22,Ratio of the decision
+d8_s23,Ratio of the decision
+d8_s24,Ratio of the decision
+d8_s25,Facts
+d8_s26,Facts
+d8_s27,Precedent
+d8_s28,Facts
+d8_s29,Precedent
+d8_s30,Statute
+d8_s31,Statute
+d8_s32,Statute
+d8_s33,Statute
+d8_s34,Statute
+d8_s35,Statute
+d8_s36,Statute
+d8_s37,Statute
+d8_s38,Statute
+d8_s39,Precedent
+d8_s40,Precedent
+d8_s41,Precedent
+d8_s42,Ratio of the decision
+d8_s43,Ratio of the decision
+d8_s44,Ratio of the decision
+d8_s45,Ratio of the decision
+d8_s46,Ratio of the decision
+d8_s47,Ratio of the decision
+d8_s48,Ratio of the decision
+d8_s49,Ratio of the decision
+d8_s50,Ratio of the decision
+d8_s51,Ratio of the decision
+d8_s52,Ratio of the decision
+d8_s53,Ratio of the decision
+d8_s54,Ratio of the decision
+d8_s55,Ratio of the decision
+d8_s56,Ratio of the decision
+d8_s57,Ratio of the decision
+d8_s58,Ratio of the decision
+d8_s59,Ratio of the decision
+d8_s60,Ratio of the decision
+d8_s61,Ratio of the decision
+d8_s62,Ratio of the decision
+d8_s63,Ratio of the decision
+d8_s64,Ratio of the decision
+d8_s65,Ratio of the decision
+d8_s66,Ratio of the decision
+d8_s67,Ratio of the decision
+d8_s68,Ratio of the decision
+d8_s69,Ratio of the decision
+d8_s70,Ratio of the decision
+d8_s71,Ratio of the decision
+d8_s72,Ratio of the decision
+d8_s73,Ratio of the decision
+d8_s74,Ratio of the decision
+d8_s75,Ratio of the decision
+d8_s76,Ratio of the decision
+d8_s77,Ratio of the decision
+d8_s78,Ratio of the decision
+d8_s79,Ratio of the decision
+d8_s80,Ratio of the decision
+d8_s81,Ratio of the decision
+d8_s82,Ratio of the decision
+d8_s83,Ratio of the decision
+d8_s84,Ratio of the decision
+d8_s85,Ratio of the decision
+d8_s86,Ratio of the decision
+d8_s87,Ratio of the decision
+d8_s88,Ratio of the decision
+d8_s89,Ratio of the decision
+d8_s90,Ratio of the decision
+d8_s91,Ratio of the decision
+d8_s92,Ratio of the decision
+d8_s93,Ratio of the decision
+d8_s94,Ratio of the decision
+d8_s95,Ratio of the decision
+d8_s96,Ratio of the decision
+d8_s97,Ratio of the decision
+d8_s98,Ratio of the decision
+d8_s99,Ratio of the decision
+d8_s100,Ratio of the decision
+d8_s101,Ratio of the decision
+d8_s102,Ratio of the decision
+d8_s103,Ratio of the decision
+d8_s104,Ratio of the decision
+d8_s105,Ratio of the decision
+d8_s106,Ratio of the decision
+d8_s107,Ratio of the decision
+d8_s108,Ratio of the decision
+d8_s109,Ratio of the decision
+d8_s110,Ratio of the decision
+d8_s111,Ratio of the decision
+d8_s112,Ratio of the decision
+d8_s113,Ratio of the decision
+d8_s114,Ratio of the decision
+d8_s115,Ratio of the decision
+d8_s116,Ratio of the decision
+d8_s117,Ratio of the decision
+d8_s118,Ratio of the decision
+d8_s119,Ratio of the decision
+d8_s120,Ratio of the decision
+d8_s121,Ratio of the decision
+d8_s122,Ratio of the decision
+d8_s123,Ratio of the decision
+d8_s124,Ratio of the decision
+d8_s125,Ratio of the decision
+d8_s126,Ratio of the decision
+d8_s127,Ratio of the decision
+d8_s128,Ratio of the decision
+d8_s129,Ratio of the decision
+d8_s130,Ruling by Present Court
+d8_s131,Ruling by Present Court
+d9_s1,Statute
+d9_s2,Facts
+d9_s3,Facts
+d9_s4,Facts
+d9_s5,Facts
+d9_s6,Facts
+d9_s7,Facts
+d9_s8,Facts
+d9_s9,Facts
+d9_s10,Facts
+d9_s11,Facts
+d9_s12,Facts
+d9_s13,Ratio of the decision
+d9_s14,Ratio of the decision
+d9_s15,Ratio of the decision
+d9_s16,Ratio of the decision
+d9_s17,Ratio of the decision
+d9_s18,Ratio of the decision
+d9_s19,Ratio of the decision
+d9_s20,Ratio of the decision
+d9_s21,Ratio of the decision
+d9_s22,Ratio of the decision
+d9_s23,Ratio of the decision
+d9_s24,Ratio of the decision
+d9_s25,Ratio of the decision
+d9_s26,Ratio of the decision
+d9_s27,Ratio of the decision
+d9_s28,Ratio of the decision
+d9_s29,Ratio of the decision
+d9_s30,Ratio of the decision
+d9_s31,Ratio of the decision
+d9_s32,Ratio of the decision
+d9_s33,Ratio of the decision
+d9_s34,Ratio of the decision
+d9_s35,Ratio of the decision
+d9_s36,Ratio of the decision
+d9_s37,Ratio of the decision
+d9_s38,Ratio of the decision
+d9_s39,Ratio of the decision
+d9_s40,Ratio of the decision
+d9_s41,Precedent
+d9_s42,Precedent
+d9_s43,Precedent
+d9_s44,Ratio of the decision
+d9_s45,Ratio of the decision
+d9_s46,Ratio of the decision
+d9_s47,Ratio of the decision
+d9_s48,Ratio of the decision
+d9_s49,Ratio of the decision
+d9_s50,Ratio of the decision
+d9_s51,Ratio of the decision
+d9_s52,Ratio of the decision
+d9_s53,Ratio of the decision
+d9_s54,Ratio of the decision
+d9_s55,Ratio of the decision
+d9_s56,Ratio of the decision
+d9_s57,Ratio of the decision
+d9_s58,Ratio of the decision
+d9_s59,Ratio of the decision
+d9_s60,Ratio of the decision
+d9_s61,Ratio of the decision
+d9_s62,Ratio of the decision
+d9_s63,Ratio of the decision
+d9_s64,Ratio of the decision
+d9_s65,Ratio of the decision
+d9_s66,Ratio of the decision
+d9_s67,Ratio of the decision
+d9_s68,Ratio of the decision
+d9_s69,Ratio of the decision
+d9_s70,Facts
+d9_s71,Facts
+d9_s72,Facts
+d9_s73,Facts
+d9_s74,Facts
+d9_s75,Facts
+d9_s76,Facts
+d9_s77,Facts
+d9_s78,Facts
+d9_s79,Facts
+d9_s80,Facts
+d9_s81,Facts
+d9_s82,Facts
+d9_s83,Facts
+d9_s84,Facts
+d9_s85,Facts
+d9_s86,Ruling by Present Court
+d9_s87,Ruling by Present Court
