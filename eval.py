@@ -40,8 +40,8 @@ def calc_classification_metrics(y_true, y_predicted, labels):
 
 def eval(args):
     # read data from golden samples
-    DATA_DIC = r"/content/drive/My Drive/AILA Datasets/"
-    os.makedirs(DATA_DIC, exist_ok=True)
+    # DATA_DIC = r"/content/drive/My Drive/AILA Datasets/"
+    # os.makedirs(DATA_DIC, exist_ok=True)
     gold_data = pd.read_csv('task2-labels.csv', sep=',')
 
     # read results
